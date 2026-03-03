@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import { CORE_CONCEPTS, EXAMPLES, TOPICS } from "./data.js";
+import { CORE_CONCEPTS, EXAMPLES } from "./data.js";
 import Header from "./components/Header/Header.jsx";
 import CoreConcept from "./components/CoreConcept.jsx";
 import TabButton from "./components/TabButton.jsx";
