@@ -232,6 +232,10 @@ ol {
   box-shadow: 0 0 8px rgba(255, 187, 0, 0.4);
 }
 
+#game-board button:disabled {
+  cursor: not-allowed;
+}
+
 #game-over button:hover {
   background: #fcd256;
   color: #3f3b00;
